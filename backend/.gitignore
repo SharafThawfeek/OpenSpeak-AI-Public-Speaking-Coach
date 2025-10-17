@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# --- Environments ---
+venv/
+.env
+*.env
+
+# --- IDE / System files ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Build / Output ---
+dist/
+build/
+*.egg-info/
+
+# --- Logs / Cache ---
+*.log
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Database / Large Files ---
+*.db
+*.sqlite3
+
+# --- Temporary files ---
+*.tmp
+*.bak
+
+# --- LangChain / Chroma data ---
+chroma/
+chromadb/

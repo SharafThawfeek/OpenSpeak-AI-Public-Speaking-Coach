@@ -1,0 +1,42 @@
+# Core Framework
+fastapi
+starlette
+uvicorn
+python-multipart
+
+# Database & ORM
+SQLAlchemy
+greenlet
+psycopg2-binary
+
+# Environment & Config
+python-dotenv
+
+# Authentication & Security
+bcrypt
+python-jose[cryptography]
+
+# AI & LangChain Stack
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-community
+langchain-chroma
+chromadb
+groq
+openai
+sentence-transformers
+
+# Utilities & Typing
+click
+colorama
+pydantic
+pydantic_core
+typing-inspection
+typing_extensions
+anyio
+sniffio
+h11
+idna
+exceptiongroup
