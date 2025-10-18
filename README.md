@@ -117,15 +117,6 @@ uvicorn src.server:app --reload
 
 ```
 
-👥 Contributors
-
-| Name                         | Role          | Responsibilities                              |
-| ---------------------------- | ------------- | --------------------------------------------- |
-| **Sharaf Thawfeek (Leader)** | System Design | LLM integration, orchestration                |
-| **Ushna Uwais**              | NLP Developer | Preprocessing, evaluation                     |
-| **Anas Ahamed**              | IR & Security | Knowledge base, encryption, commercialization |
-
-
 🌍 Mission
 
 “To make AI-driven communication coaching accessible to everyone — helping students, professionals, and leaders speak with clarity, confidence, and impact.”
